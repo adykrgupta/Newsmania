@@ -4,3 +4,5 @@ from various newspaper, reducing user effort by 70%.
 • Optimized data fetching and rendering processes, resulting in a 30% reduction in load times, enhancing overall user
 experience and website performance.
 • Included features such as category filtering,responsiveness and dark mode.
+
+https://akrnewsmania.netlify.app/
