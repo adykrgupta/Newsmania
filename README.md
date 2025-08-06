@@ -5,4 +5,5 @@ from various newspaper, reducing user effort by 70%.
 experience and website performance.
 • Included features such as category filtering,responsiveness and dark mode.
 
+
 Live Link- https://adykrnewsmania.netlify.app/
